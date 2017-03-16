@@ -2,6 +2,6 @@ package gittest;
 
 public class hallo {
 	
-//	hallo
+system.out.println("hallo");
 	
 }
