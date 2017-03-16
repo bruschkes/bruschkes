@@ -6,8 +6,8 @@ public class GitHub123 {
 
 
 		System.out.println("GitHub Test erfolgreich");
-		//		kommentar
-		
+		//		kommenta
+
 		System.out.println("test");
 	}
 
